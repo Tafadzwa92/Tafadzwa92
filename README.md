@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tafadzwa
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html5,css3,javascript,bootstrap5
+- 🌱 I am proficient in html5,css3,javascript,bootstrap5, Java and C#,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Zvokuombat92@gmail.com
 
